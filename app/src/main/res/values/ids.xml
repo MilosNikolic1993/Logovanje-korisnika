@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etKorisnickoIme" type="id" />
+    <item name="etSifra" type="id" />
+    <item name="btnLogin" type="id" />
+    <item name="etNovoKorisnickoIme" type="id" />
+    <item name="etNovaSifra" type="id" />
+    <item name="btnRegistracija" type="id" />
+</resources>

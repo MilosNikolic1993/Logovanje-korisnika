@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Logovanje</string>
+    <string name="login">Logovanje</string>
+    <string name="registration">Registracija</string>
+    <string name="login_successful">Uspesno ste se ulogovali.</string>
+    <string name="registration_successful">Uspesno ste se registrovali.</string>
+    <string name="registration_error">Greska pri registraciji.</string>
+    <string name="username_hint">Korisničko ime</string>
+    <string name="password_hint">Sifra</string>
+    <string name="new_username_hint">Novo korisnicko ime</string>
+    <string name="new_password_hint">Nova sifra</string>
+    <string name="login_activity_label" />
+    <string name="registration_activity_label" />
+
+</resources>
